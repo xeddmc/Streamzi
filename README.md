@@ -13,7 +13,7 @@
       <img alt="Downloads" src="https://img.shields.io/github/downloads/ihmily/StreamCap/total"></a>
 </p>
 <div align="center">
-  English / <a href="./README.md">Chinese</a>
+  English / <a href="./README_ZH.md">Chinese</a>
 </div><br>
 
 
